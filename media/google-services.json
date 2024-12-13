@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "219652020676",
+    "firebase_url": "https://fusin-viet-nam-3fbce-default-rtdb.firebaseio.com",
+    "project_id": "fusin-viet-nam-3fbce",
+    "storage_bucket": "fusin-viet-nam-3fbce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219652020676:android:cfc60f171fcd1282b62c91",
+        "android_client_info": {
+          "package_name": "fusinvietnam.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuOppATEJS5v90vzSvZ6S4UtN1C6pebhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
